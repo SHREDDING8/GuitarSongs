@@ -28,4 +28,4 @@ BPM: 82
 ![[./Assets/Project 1.mp3]]
 # Табы gp5
 
-![[./Assets/dan wilkie-Deception-07-05-2025.gp]]
+![[./Assets/dan wilkie-Deception-07-05-2025.gp]] 
